@@ -1,0 +1,14 @@
+Requisitos:
+
+- armazenar os contatos
+- 3 Estruturas de dados: (Vetor, Lista encadeada, Árvore binária de busca)
+
+contato:
+- nome String
+- numeroTelefone String
+
+contado CRUD:
+[ ] - criar ou adicionar novo contato
+[ ] - remover contato existente
+[ ] - buscar contato específico
+ 
